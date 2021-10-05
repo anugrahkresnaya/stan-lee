@@ -1,0 +1,41 @@
+body {
+    margin: 80px;
+    background-color: maroon;
+    color: whitesmoke;
+    font-family: consolas;
+    background-image: linear-gradient(#1B1717, #810000);
+}
+
+.center {
+    text-align: center;
+}
+
+#img-div {
+    text-align: center;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+}
+
+#tribute-info {
+    text-align: justify;
+}
+
+li span {
+    font-weight: bold;
+}
+
+blockquote {
+    font-style: italic;
+    font-size: larger;
+}
+
+a {
+    color: whitesmoke;
+}
+
+a:hover {
+    color: #ECEFA4;
+}
